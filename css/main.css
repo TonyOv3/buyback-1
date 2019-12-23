@@ -8937,7 +8937,7 @@ p {
   font-size: 14px;
   color: #868686;
   font-weight: 500;
-  background-color: #fff;
+  background-color: #F60C21;
   cursor: pointer;
 }
 
@@ -8972,25 +8972,25 @@ p {
 }
 
 .btn.btn-green {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
 .btn.btn-green:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 .btn.btn-green-bg {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #000;
 }
 
 .btn.btn-green-bg:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 .btn.btn-uppercase {
@@ -9004,25 +9004,25 @@ p {
 }
 
 .btn.btn-blue-bg {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
 .btn.btn-blue-bg:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 .btn.btn-blue {
   background-color: #fff;
-  border: 1px solid #1ec475;
+  border: 1px solid #F60C21;
   color: #000;
 }
 
 .btn.btn-blue:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
@@ -9157,7 +9157,7 @@ input:focus:-moz-placeholder {
 }
 
 .text-green {
-  color: #1ec475;
+  color: #df2626;
 }
 
 /* All page
@@ -9221,7 +9221,7 @@ body.inner #header,
 }
 
 #header.fixed .searchfield {
-  border: 2px solid #1ec475;
+  border: 2px solid #F60C21;
   background: white;
 }
 
@@ -9234,7 +9234,7 @@ body.inner #header,
 }
 
 #header.fixed .searchfield:after {
-  border-bottom: 13px solid #1ec475;
+  border-bottom: 13px solid #F60C21;
 }
 
 #header.fixed .brand-logo-fixed {
@@ -9472,7 +9472,7 @@ body.inner #header,
 
 .btn-quote {
   padding: 10px 30px;
-  background-color: #1ec475;
+  background-color: #F60C21;
   color: #fff;
   border-radius: 20px;
   text-transform: uppercase;
@@ -9956,7 +9956,7 @@ body.inner #header,
 
 #howitwork .list li .roundbox {
   display: inline-block;
-  border: 2px dashed #1ec475;
+  border: 2px dashed #F60C21;
   width: 126px;
   height: 126px;
   border-radius: 50%;
@@ -9968,7 +9968,7 @@ body.inner #header,
 }
 
 #howitwork .list li .roundbox:hover {
-  border: 2px solid #1ec475;
+  border: 2px solid #DA0519;
 }
 
 #howitwork .list li:hover .roundbox img {
@@ -10068,7 +10068,7 @@ body.inner #header,
 }
 
 #choose-device .list li .roundbox:hover {
-  border: 2px solid #1ec475;
+  border: 2px solid #DA0519;
 }
 
 #choose-device .list li .roundbox:hover:after {
@@ -10121,8 +10121,8 @@ body.inner #header,
 
 #findmodal .list li:hover .roundbox {
   background-color: #fff;
-  border: 1px solid #1ec475;
-  color: #1ec475;
+  border: 1px solid #fff;
+  color: #B1B2B1;
 }
 
 #findmodal .roundbox .imgbox {
@@ -10199,7 +10199,7 @@ body.inner #header,
 }
 
 #selectbrand .list li:hover {
-  border: 1px solid #1ec475;
+  border: 1px solid #DA0519;
 }
 
 /*#selectbrand .list li:nth-of-type(3n+0) {
@@ -10263,14 +10263,14 @@ body.inner #header,
   height: 74px;
   border-radius: 30px 30px 0 30px;
   background-color: #fff;
-  border: 1px solid #e3e3e3;
+  border: 1px solid #dadada;
   padding: 10px 15px;
   margin-bottom: 10px;
   margin: 20px;
 }
 
 #whychooseus .list li .imgbox:hover {
-  border: 1px solid #1ec4759e;
+  border: 1px solid #dadada;
 }
 
 #whychooseus .wrap {
@@ -10304,8 +10304,8 @@ body.inner #header,
 }
 
 #browsecategory .list li:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
@@ -10366,7 +10366,7 @@ body.inner #header,
 }
 
 #sellbrand .list li:hover .roundbox {
-  border: 3px solid #1ec475;
+  border: 3px solid #F60C21;
 }
 
 #sellbrand .roundbox .imgbox,
@@ -10454,7 +10454,7 @@ body.inner #header,
 
 .quote_box .btnbox button {
   padding: 20px 30px;
-  background-color: #1ec475bd;
+  background-color: #F60C21;
   color: #fff;
   font-size: 15px;
   border-radius: 30px;
@@ -10469,7 +10469,7 @@ body.inner #header,
 }
 
 .quote_box .btnbox button:hover {
-  background-color: #1ec475;
+  background-color: #DA0519;
 }
 
 .testimonial_box {
@@ -10613,7 +10613,7 @@ body.inner #header,
 
 .fsignup-box button {
   padding: 15px 20px;
-  background-color: #1ec475;
+  background-color: #F60C21;
   color: #fff;
   font-size: 12px;
   border-radius: 30px;
@@ -10627,7 +10627,7 @@ body.inner #header,
 }
 
 .fsignup-box button:hover {
-  background-color: #6b6b6b;
+  background-color: #DA0519;
 }
 
 .copyright {
@@ -10652,7 +10652,7 @@ body.inner #header,
 }
 
 #footer .fsocial li a {
-  color: #1ec475;
+  color: #F60C21;
   font-size: 35px;
   -webkit-transition: none;
   transition: none;
@@ -10913,7 +10913,7 @@ body.inner #head-graphics .header-caption .device-h-search input[type=text] {
 }
 
 body.inner #head-graphics .header-caption .device-h-search button {
-  background-color: #1ec475;
+  background-color: #F60C21;
   border: 0;
 }
 
@@ -11563,8 +11563,8 @@ body.inner #head-graphics .device-h-search button {
 
 .modern-block__row {
   border: 1px solid #000;
-  /*-webkit-box-shadow: 0 0 22px #1ec47573;
-          box-shadow: 0 0 22px #1ec47573;*/
+  /*-webkit-box-shadow: 0 0 22px #F60C2173;
+          box-shadow: 0 0 22px #F60C2173;*/
   border-radius: 0;
   padding: 12px;
   z-index: 1;
@@ -11630,7 +11630,7 @@ body.inner #head-graphics .device-h-search button {
 }
 
 .modern-text__row.selected .modern-text__num b {
-  background: #1ec475;
+  background: #F60C21;
 }
 
 .modern-text__row.modern-block__row.selected .modern-block__selected {
@@ -11692,7 +11692,7 @@ body.inner #head-graphics .device-h-search button {
   float: right;
   height: 45px;
   position: relative;
-  background-color: #1ec475;
+  background-color: #F60C21;
   border-radius: 0 5px 5px 0;
 }
 
@@ -11767,12 +11767,12 @@ body.inner #head-graphics .device-h-search button {
 }
 
 .modern-block__content .options_values .sel {
-  background-color: #1ec475;
+  background-color: #F60C21;
   color: #fff;
 }
 
 .modern-block__content .options_values .btn:hover{
-  background-color: #1ec475;
+  background-color: #F60C21;
 }
 
 .modern-text__row.selected .select-area__title:after,
@@ -11825,14 +11825,14 @@ body.inner #head-graphics .device-h-search button {
 
 .btn-gray {
   background-color: #fff;
-  color: #1ec475;
-  border-color: #1ec475;
+  color: #F60C21;
+  border-color: #F60C21;
   cursor: pointer;
 }
 
 .btn-gray:hover {
-  background-color: #1ec475;
-  border-color: #1ec475;
+  background-color: #F60C21;
+  border-color: #F60C21;
   color: #fff;
 }
 
@@ -12181,8 +12181,8 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #payment_box .head_row.active {
-  border: 1px solid #1ec475;
-  background-color: #1ec475;
+  border: 1px solid #F60C21;
+  background-color: #F60C21;
   color: #fff;
   padding: 10px 15px;
 }
@@ -12258,7 +12258,7 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #payment_box .detail_row {
-  border: 2px solid #1ec475;
+  border: 2px solid #F60C21;
   border-radius: 10px;
   padding: 8px 15px;
   font-size: 13px;
@@ -12337,14 +12337,14 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #total_price_box {
-  border: 2px solid #1ec475;
+  border: 2px solid #F60C21;
   border-radius: 10px;
   background-color: #fff;
   overflow: hidden;
 }
 
 #total_price_box .top_part {
-  background-color: #1ec4756b;
+  background-color: #F60C21;
   padding: 20px;
   font-size: 19px;
   font-weight: 500;
@@ -12389,14 +12389,14 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #total_price_box .but_sec .btn.btn-green {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
 #total_price_box .but_sec .btn.btn-green:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 /* OrderDetail page style
@@ -12463,14 +12463,14 @@ body.inner #head-graphics .device-h-search button {
 }
 
 .orderdetail .btn_row .btn.btn-green {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
 }
 
 .orderdetail .btn_row .btn.btn-green:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 .orderdetail .btn_row .dis_table {
@@ -12666,16 +12666,16 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #container_profile .btn_box .btn.btn-green {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 #container_profile .btn_box .btn.btn-green:hover {
-  background-color: #1ec475;
-  border: 1px solid #1ec475;
+  background-color: #F60C21;
+  border: 1px solid #F60C21;
 }
 
 .myorder_page #review-sale-table {
@@ -12790,7 +12790,7 @@ body.inner #head-graphics .device-h-search button {
 
 #user_patment_detail .inner_box.active,
 #user_patment_detail .inner_box:hover {
-  border-color: #1ec475;
+  border-color: #F60C21;
   color: #000;
 }
 
@@ -12921,18 +12921,18 @@ body.inner #head-graphics .device-h-search button {
 }
 
 #howLikeDevice .inner.postme.active {
-  background-color: #1ec475;
-  border-color: #1ec475;
+  background-color: #F60C21;
+  border-color: #F60C21;
 }
 
 #howLikeDevice .inner.printme.active {
-  background-color: #1ec475;
-  border-color: #1ec475;
+  background-color: #F60C21;
+  border-color: #F60C21;
 }
 
 #howLikeDevice .inner.courierme.active {
-  background-color: #1ec475;
-  border-color: #1ec475;
+  background-color: #F60C21;
+  border-color: #F60C21;
 }
 
 #howLikeDevice .inner.active .text,
@@ -14077,7 +14077,7 @@ textarea:focus {
   top: 10%;
   width: 2px;
   height: 80%;
-  background-color: #1ec475;
+  background-color: #F60C21;
   display: block;
 }
 
@@ -14324,7 +14324,7 @@ body.inner .common-two-col-page #head-graphics .header-caption {
 .common-two-col-page.your-order-page .sectionbox .title_green {
   font-size: 42px;
   font-weight: 500;
-  color: #1ec475;
+  color: #F60C21;
   line-height: 100%;
   margin-bottom: 30px;
 }
@@ -15177,7 +15177,7 @@ body.inner .common-two-col-page #head-graphics .header-caption {
   width: 0;
   height: 0;
   border: 20px solid transparent;
-  border-right-color: #1ec4759e;
+  border-right-color: #F60C21;
   border-left: 0;
   border-bottom: 0;
   margin-top: -10px;

@@ -442,6 +442,7 @@ class timthumb {
 
 		$this->src = preg_replace('/https?:\/\/(?:www\.)?' . $this->myHost . '/i', '', $this->src);
 
+		//$this->src = preg_replace('/http?:\/\/(?:www\.)?' . $this->myHost . '/i', '', $this->src);
 		
 
 		if(strlen($this->src) <= 3){

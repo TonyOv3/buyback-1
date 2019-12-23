@@ -2,36 +2,41 @@
 
 
 #header.fixed{
-    background-color: #000000;
+    background-color: #033E76 ;
 }
 body.inner #header,#header{
-    background-color: #000000;
+    background-color: #033E76 ;
 }
 #howitwork .list li .roundbox img{
-    -webkit-filter: invert(55%) sepia(69%) saturate(455%) hue-rotate(99deg) brightness(95%) contrast(99%);
-    filter: invert(55%) sepia(69%) saturate(455%) hue-rotate(99deg) brightness(95%) contrast(99%);
+    /*-webkit-filter: invert(6%) sepia(0%) saturate(0%) hue-rotate(100deg) brightness(95%) contrast(99%);
+    filter: invert(6%) sepia(0%) saturate(0%) hue-rotate(100deg) brightness(95%) contrast(99%);*/
+    -webkit-filter: hue-rotate(315deg) brightness(95%) contrast(99%);
+    filter: hue-rotate(315deg) brightness(95%) contrast(99%);
 }
 #scroller1 img{
-    filter: invert(55%) sepia(69%) saturate(455%) hue-rotate(99deg) brightness(95%) contrast(99%);
+    /*filter: invert(55%) sepia(69%) saturate(455%) hue-rotate(99deg) brightness(95%) contrast(99%);*/
+    filter: hue-rotate(315deg) brightness(95%) contrast(99%);
 }
 #choose-device .list li .roundbox:hover:after,
 #sellbrand .list li:hover .roundbox:after{
-    -webkit-filter: invert(207%) sepia(69%) saturate(455%) hue-rotate(298deg) brightness(112%) contrast(122%);
-    filter: invert(207%) sepia(69%) saturate(455%) hue-rotate(298deg) brightness(112%) contrast(122%);
+    /*-webkit-filter: invert(207%) sepia(69%) saturate(455%) hue-rotate(298deg) brightness(112%) contrast(122%);
+    filter: invert(207%) sepia(69%) saturate(455%) hue-rotate(298deg) brightness(112%) contrast(122%);*/
+    -webkit-filter: saturate(455%) hue-rotate(321deg) brightness(95%) contrast(99%);
+    filter: saturate(455%) hue-rotate(321deg) brightness(95%) contrast(99%);
 }
 .device-h-search input[type=text]{
-    border: 2px solid #1ec475!important;
+    border: 2px solid #F80319 !important;
 }
 #head-graphics .header-caption .device-h-search input[type=text]{
     border: 2px solid #fff;
 }
 .device-h-search button{
-    background-color: #1ec475;
-    border: 2px solid #1ec475;
+    background-color: #F80319;
+    border: 2px solid #F80319;
 }
 #head-graphics .header-caption .device-h-search button{
-    background-color: #1ec475;
-    border: 2px solid #1ec475;
+    background-color: #F80319;
+    border: 2px solid #F80319;
 }
 #accordion h3 span.ui-a-icon{
     filter: brightness(0) invert(0);
@@ -43,10 +48,10 @@ body.inner #header,#header{
 .scroll_top{
     -webkit-filter: invert(1%) grayscale(100%) brightness(80%) contrast(4);
     filter: invert(1%) grayscale(100%) brightness(80%) contrast(4);
-    border: 1px solid #1ec475;
+    border: 1px solid #F60C21;
 }
 .model-btn-group li a:hover, .model-btn-group li.active a{
-    background-color: #1ec475;
+    background-color: #F60C21;
 }
 .testimonials_page .page_title h2:before,
 .testimonials_page .page_title h2:after{
@@ -54,7 +59,7 @@ body.inner #header,#header{
     filter: invert(51%) sepia(2%) saturate(0%) hue-rotate(1deg) brightness(98%) contrast(87%);
 }
 .common-two-col-page .address_box .inner:before{
-    background-color: #1ec475;
+    background-color: #F60C21;
 }
 .list_box ul li,
 .common-two-col-page .address_box p.location:before,
@@ -144,34 +149,36 @@ body.inner #header,#header{
 #select-device .list li:hover{
     -webkit-box-shadow: 0px 0px 2px 0px rgb(128, 128, 128, 0.5);
     box-shadow: 0px 0px 2px 0px rgb(128, 128, 128, 0.5);
-    border: 1px solid #1ec475!important;
+    border: 1px solid #F80319 !important;
 }
 #select-device .list li:nth-child(1), #select-device .list li:nth-child(2), 
 #select-device .list li:nth-child(3), #select-device .list li:nth-child(4){
-    border-top: 1px solid #e3e3e3;
+    border-top: 1px solid #B1B2B1;
+    border-radius: 6px;
 }
 #select-device .list li{
-    border: 1px solid #e3e3e3;
+    border: 1px solid #B1B2B1;
     margin: 5px;
     width: 24%;
+    border-radius: 6px;
 }
 #select-device .list{
     border-left: 0;
 }
 #select-device .list li .btnbox {
-    border: 1px solid #1ec47542;
+    border: 1px solid #B1B2B1;
     display: inherit;
     padding: 1px 10px;
     top: 15px;
     position: relative;
-    border-radius: 4px;
+    border-radius: 6px;
 }
 #select-device .list li:hover .btnbox {
-    background-color: #1ec475c4;
+    background-color: #F60C21;
     color: #fff;
 }
 #select-device .list li .btnbox:hover{
-    background-color: #1ec475;
+    background-color: #F60C21;
 }
 @media screen and (max-width: 767px){
     #select-device .list li{
@@ -254,7 +261,7 @@ body.inner #header,#header{
     margin-top: 2rem;
 }
 .sectionbox h2 span{
-    color: #1ec475;
+    color: #fff;
 }
 .mt-0{
     margin-top: 0!important;
@@ -266,7 +273,7 @@ body.inner #header,#header{
     border-bottom: 1px solid #0000001f!important;
 }
 .autocomplete-suggestions strong{
-    color: #1ec475!important;
+    color: #F60C21!important;
 }
 .searchfield{
     width: 450px!important;
