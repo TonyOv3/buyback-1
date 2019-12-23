@@ -94,6 +94,7 @@ foreach($home_page_settings_list as $home_page_settings_data) {
 				
 				<div class="content-block">
 					<ul id="device_slider" class="list owl-carousel">
+						<center>
 						<?php
 						foreach($device_data_list as $device_data) {
 							$dn = $dn +1; ?>
@@ -116,6 +117,7 @@ foreach($home_page_settings_list as $home_page_settings_data) {
 								echo '</li><li>';
 							}*/
 						} ?>
+					</center>
 					</ul>
 				</div>
 			</div>
